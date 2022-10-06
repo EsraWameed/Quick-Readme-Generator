@@ -115,3 +115,21 @@ const questions = [
         message: 'What is your email?',
 },
 ];
+// Create a function to write to README.md file and initialize the generatemarkdown function
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) => {
+        if (err)
+            throw err;
+        console.log('Success! Information transferred to the README!')
+    });
+};
+//writing to readme file
+function init() {
+    inquirer.prompt(questions)
+    .then(function (userInput) {
+        console.log(userInput)
+        writeToFile("README.md", generateMarkdown(userInput));
+    });
+};
+init();
+
