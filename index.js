@@ -124,12 +124,12 @@ function writeToFile(fileName, data) {
     });
 };
 //writing to readme file
-function init() {
+function initialize() {
     inquirer.prompt(questions)
     .then(function (userInput) {
         console.log(userInput)
         writeToFile("README.md", generateMarkdown(userInput));
     });
 };
-init();
+initialize();
 
