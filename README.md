@@ -1,8 +1,9 @@
-# Quick README.md Generator
+# es
 
   ## Licensing:
   ![License: MIT](https://img.shields.io/badge/License-undefined-yellow.svg)
-
+  ## Videos and Application Images
+  [README.md generator](readme.mp4)
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -12,23 +13,23 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  In this project, the inquirer package was used to provide users with a series of prompts to collect information and use this information to generate a quick, professional README.md page that is dynamic and easy to use. This can ensure developers spend more time coding and less time worrying about missing important sections of the readme.
+  es
 
   ## Installation:
-  Clone the respository into your device, and ensure to require   fs and run npm i inquirer.
+  es
 
   ## Usage:
-  Answer all the given prompts and a customized readme.md file will be generated for you.
+  es
 
   ## License:
-  MIT
+  Apache_2.0
 
   ## Contribution:
-  Others can clone this repositotory or fork this project/create a pull request.
+  es
 
   ## Testing:
-  through the terminal by installing the inquirer package
+  es
 
   ## Additional Info:
-  - Github: [EsraWameed](https://github.com/EsraWameed)
-  - Email: esra.wameed@yahoo.com 
+  - Github: [d](https://github.com/d)
+  - Email: d 
