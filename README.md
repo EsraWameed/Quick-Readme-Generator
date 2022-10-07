@@ -3,6 +3,7 @@
   ## Licensing:
   ![License: MIT](https://img.shields.io/badge/License-undefined-yellow.svg)
   ## Videos and Application Images
+  - You can click on either the image or this link to access the video https://www.youtube.com/watch?v=3NE0NLoVIeg&ab_channel=EsraAl-Abduljabar
  [![IMAGE ALT TEXT](terminal-app.png)](https://www.youtube.com/watch?v=3NE0NLoVIeg&ab_channel=EsraAl-Abduljabar "readme")
 
   ## Table of Contents 
