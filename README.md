@@ -1,4 +1,4 @@
-# esra
+# Quick README.md Generator
 
   ## Licensing:
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
